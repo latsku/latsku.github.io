@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]> <html lang="en" class="ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="en" class="ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en" class="ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en" class="ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html lang="en" > <!--<![endif]-->
+<head>
+<meta charset="utf-8">
+
+  <title>Blog - Lari Lehtomäki</title>
+	
+	<meta name="robots" content="index, follow">
+
+	<link href='https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz' rel='stylesheet' type='text/css'>
+	<link href="../../theme/Innovation/assets/css/reset.css" rel="stylesheet">
+	<link href="../../theme/Innovation/style.css?v=3.3.1" rel="stylesheet">
+	
+	<!--[if lt IE 9]>
+		<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]--> 
+	
+	<!--[if lt IE 7 ]>
+    <script src="/theme/Innovation/assets/js/dd_belatedpng.js"></script>
+    <script> DD_belatedPNG.fix('img, .png_bg'); //fix any <img> or .png_bg background-images </script>
+  <![endif]-->
+
+	<link rel="canonical" href="../index.html" />
+<link href="https://yandex.st/highlightjs/7.3/styles/default.min.css?v=7,3" rel="stylesheet" media="screen"><script src="https://yandex.st/highlightjs/7.3/highlight.min.js?v=7.3"></script>	
+</head> 
+<body id="blog" >
+	
+	<!-- site header -->
+	<header>
+		<div class="header">
+			<div class="wrapper">
+				
+				<!-- logo/sitename -->
+				<a href="../../index.html" id="logo" >Lari Lehtomäki</a>
+				
+				<!-- main navigation -->
+				<nav id="main-nav">
+					<ul>
+						<li class="thunderbird-add-ons"><a href="../../thunderbird-add-ons/index.html" title="Thunderbird Add-ons">Thunderbird Add-ons</a></li>
+<li class="firefox-add-ons"><a href="../../firefox-add-ons/index.html" title="Firefox Add-Ons I use">FF Add-Ons</a></li>
+<li class="bachelor"><a href="../../bachelor/index.html" title="Bachelor">Bachelor</a></li>
+<li class="mac-os-x-my-applications"><a href="../../mac-os-x-my-applications/index.html" title="Mac OS X - My Applications">OS X Apps</a></li>
+<li class="blog current active"><a href="../index.html" title="Blog">Blog</a></li>
+<li class="bookmarklets"><a href="../../bookmarklets/index.html" title="Bookmarklets">Bookmarklets</a></li>
+					</ul>
+				</nav>
+			</div>
+		</div>
+		
+		<!-- breadcrumbs: only show when NOT on homepage -->
+		<p class="breadcrumbs" >
+			<span class="wrapper">
+				<a href="../../index.html">Home</a> &nbsp;&nbsp;&#149;&nbsp;&nbsp;  <b>Blog</b>
+			</span>
+		</p>
+		
+  </header>	
+	<div class="wrapper clearfix">
+		<!-- page content -->
+		<article>
+			<section>
+				
+				<!-- title and content -->
+				<h1>Blog</h1>
+				    <div class="nm_post">
+      <h3 class="nm_post_title">
+        <a href="show-wmi-hierarchy">Show WMI-hierarchy</a>
+      </h3>
+      <p class="nm_post_date">Published on Dec 19, 2012</p>
+      <div class="nm_post_content"><pre>
+	wbemtest.exe
+</pre></div>
+      <p class="nm_post_meta"><b>Tags:</b> <a href="../tag/IT">IT</a> <a href="../tag/windows">windows</a> <a href="https://latsku.fi/blog/tag/cmd.exe">cmd.exe</a> <a href="../tag/commandline">commandline</a> <a href="../tag/tips">tips</a></p><p class="nm_post_back"><a href="javascript:history.back()">&lt;&lt; Go back to the previous page</a></p>    <div id="disqus_thread"></div>
+    <script type="text/javascript">
+        var disqus_shortname = 'latskufi';
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+    
+	
+	    </div>
+    				
+				<!-- page footer -->
+				<div class="footer">
+					<p>Published on <time datetime="2013-02-04" pubdate>February 4th, 2013</time></p>
+				</div>
+			</section>
+			
+		</article>
+		
+		<!-- include the sidebar template -->
+		<aside id="sidebar">
+
+	<div class="section" id="socialmedia" >
+		<h2>Connect</h2>
+		<div class="icons">
+		<a href="https://twitter.com/LariLehtomaki"><img src="../../theme/Innovation/assets/images/twitter.png" alt="twitter"/></a><a href="http://fi.linkedin.com/pub/lari-lehtom%C3%A4ki/97/a38/87b"><img src="../../theme/Innovation/assets/images/linkedin.png" alt="linkedin"/></a><a href="https://github.com/latsku/"><img src="../../theme/Innovation/assets/images/github.png" alt="github"/></a>				
+			<img src="../../theme/Innovation/assets/images/break.png" />
+			
+			<!-- addthis popup - you can add your username if you want analytics: http://www.addthis.com/help/customizing-addthis -->
+			<div class="addthis_toolbox" style="display:inline;width:24px;" >
+				<a href="https://www.addthis.com/bookmark.php?v=250" class="addthis_button_compact"><img src="../../theme/Innovation/assets/images/share.png" /></a>
+			</div>
+			<script type="text/javascript" src="https://s7.addthis.com/js/250/addthis_widget.js"></script>
+		</div>
+	</div>
+	
+	
+	<!-- wrap each sidebar section like this -->
+	<div class="section">
+		<div id="hcard-Lari-Lehtomäki" class="vcard">
+ <span class="fn">Lari Lehtomäki</span><br>
+ Email: <a class="email" href="mailto:lari+w7zp@lehtomaki.fi">lari+w7zp@lehtomaki.fi</a><br>
+ <a class="pgp" href="../../pgp" alt="PGP key">PGP (658B3CAA)</a><br /><br />
+
+ <div class="adr address">
+  <span class="locality">Espoo</span>,
+  <span class="country-name">Finland</span>
+ </div>
+</div>
+
+	</div>
+
+	
+</aside>
+	</div>
+
+<!-- include the footer template -->
+
+	<!-- site footer -->
+	<footer class="clearfix" >
+		
+				
+		<!-- 
+			Theme Credits
+			Please consider keeping the links to the developer and GetSimple if you use this theme
+		-->
+	 	<div class="wrapper">
+			<div class="left">2014 <a href="../../index.html" >Lari Lehtomäki</a></div>
+			<div class="right">Innovation Theme by <a href="http://www.cagintranet.com" >Cagintranet</a> &middot; <a href="http://get-simple.info/" target="_blank" >Powered by  GetSimple</a></div>
+		</div>
+	</footer>
+	 
+</body>
+</html>
