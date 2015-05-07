@@ -1,0 +1,33 @@
+@import 'https://netdna.bootstrapcdn.com/twitter-bootstrap/2.0.4/css/bootstrap-combined.min.css';
+
+body {
+	font-family: monospace;
+	text-align: center;
+}
+
+a, a:active, a:hover, a:focus, a:link {
+	color: black;
+}
+
+address {
+	font-style: normal;
+	line-height: 2;
+}
+
+#content {
+	max-width: 1000px;
+}
+
+#face {
+
+}
+
+#details {
+	border-width: 2px;
+	border-style: dashed;
+	height: 300px;
+}
+
+#description {
+
+}
